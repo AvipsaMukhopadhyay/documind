@@ -2,7 +2,6 @@
 
 DocuMind is a production-ready web application that extracts text from native PDFs, scanned PDF documents, and images (PNG/JPG) using PyMuPDF and Tesseract OCR. It analyzes and summarizes the extracted contents via Gemini LLM, extracting key takeaways, main ideas, and tangible improvement suggestions.
 
----
 
 ## Document Processing Architecture
 
